@@ -2930,7 +2930,6 @@ input[type="button"].btn--primary:focus {
     display: inline-block;
     font-size: var(--text-size);
     line-height: var(--vspace-1_25);
-    text-transform: uppercase;
     letter-spacing: .25em;
     padding-left: .25em;
     padding-bottom: .1em;
